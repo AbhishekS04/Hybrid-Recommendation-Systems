@@ -115,3 +115,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 For questions or feedback, reach out via:
 - **GitHub Issues**: [Report Issues](https://github.com/AbhishekS04/Hybrid-Recommendation-Systems/issues)
 - **LinkedIn**: [Connect with Abhishek](https://www.linkedin.com/in/abhishek-singh-045312292/)
+- **Email**: abhishek23main@gmail.com
