@@ -115,7 +115,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 For questions or feedback, reach out via:
 - **GitHub Issues**: [Report Issues](https://github.com/AbhishekS04/Hybrid-Recommendation-Systems/issues)
 - **LinkedIn**: [Connect with Abhishek](https://www.linkedin.com/in/abhishek-singh-045312292/)
-
----
-
-By refining the layout, iconography, and color schemes in the app, you can create a truly modern feel. Additionally, consider updating any logos or icons with a flat, minimalistic style for a fresh look! If you'd like a specific logo concept designed, just let me know.
