@@ -1,6 +1,3 @@
-Certainly! Here’s an enhanced and polished README for a modern, aesthetically pleasing look.
-
----
 
 # 🎥 **Hybrid Movie Recommendation System**
 
