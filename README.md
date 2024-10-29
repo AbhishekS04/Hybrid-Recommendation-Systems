@@ -7,7 +7,7 @@ A **movie recommendation app** developed with **JavaScript** and **React** using
 
 ## 📚 **Overview**
 
-This project combines the power of collaborative and content-based filtering algorithms to generate personalized movie recommendations. With **real-time movie data** from TMDb and a responsive, modern interface, users can easily discover new movies that match their tastes.
+This project combines the power of collaborative and content-based filtering algorithms to generate personalized movie recommendations. Using **real-time movie data** from TMDb and a responsive, modern interface, users can easily discover new movies that match their tastes. Developed as a **group project** for our **Data Structures and Algorithms (DSA) lab**, this app showcases the practical application of DSA concepts in building an efficient recommendation engine.
 
 ---
 
