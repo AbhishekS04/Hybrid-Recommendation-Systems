@@ -1,7 +1,3 @@
-Here’s the updated README with the specified contact information:
-
----
-
 # 🎬 Hybrid Recommendation Systems
 
 A **movie recommendation system** built with **JavaScript** and **React**, utilizing **The Movie Database (TMDb) API** to provide personalized movie recommendations. The project structure is organized to ensure scalability, modularity, and ease of maintenance.
@@ -135,7 +131,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or feedback, reach out via:
 - **GitHub Issues**: [Report Issues](https://github.com/AbhishekS04/Hybrid-Recommendation-Systems/issues)
 - **LinkedIn**: [Connect with Abhishek](https://www.linkedin.com/in/abhishek-singh-045312292/)
-
---- 
-
-Let me know if you'd like further adjustments!
