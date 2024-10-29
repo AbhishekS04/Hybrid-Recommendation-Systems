@@ -1,7 +1,3 @@
-Here’s a README tailored to your project structure, highlighting each part of the repository based on your file organization. This layout emphasizes the modularity of components, pages, and public assets.
-
----
-
 # 🎬 Hybrid Recommendation Systems
 
 A **movie recommendation system** built with **JavaScript** and **React**, utilizing **The Movie Database (TMDb) API** to provide personalized movie recommendations. The project structure is organized to ensure scalability, modularity, and ease of maintenance.
@@ -136,6 +132,3 @@ For questions or feedback, reach out via:
 - **GitHub Issues**: [Report Issues](https://github.com/AbhishekS04/Hybrid-Recommendation-Systems/issues)
 - **LinkedIn**: [Connect with Abhishek](https://www.linkedin.com/in/abhisheks04)
 
----
-
-This README now reflects the exact structure of your project, with clear explanations for each folder and file. Let me know if there are any further adjustments or additions you’d like!
